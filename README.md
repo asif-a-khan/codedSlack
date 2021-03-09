@@ -7,4 +7,4 @@ Use your own firebase config to avoid sharing data.
 
 # Live site
 
-codedslack.netlify.app
+https://codedslack.netlify.app/
