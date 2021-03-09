@@ -6,3 +6,5 @@ Run npm start to run in development mode.
 Use your own firebase config to avoid sharing data.
 
 # Live site
+
+codedslack.netlify.app
