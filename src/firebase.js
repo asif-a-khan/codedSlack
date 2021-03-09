@@ -1,12 +1,12 @@
 import firebase from "firebase";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCahq3srfj_TCvttq8cMzXIs2_TiSZouAk",
-  authDomain: "codedecom-8cfbc.firebaseapp.com",
-  projectId: "codedecom-8cfbc",
-  storageBucket: "codedecom-8cfbc.appspot.com",
-  messagingSenderId: "672814744557",
-  appId: "1:672814744557:web:e8a79f4ecba532a17c1de4"
+  apiKey: "AIzaSyBrn_Sugb6uv7s4wLwxa3AxgfM6Lda_Az0",
+  authDomain: "codedslack.firebaseapp.com",
+  projectId: "codedslack",
+  storageBucket: "codedslack.appspot.com",
+  messagingSenderId: "925822756811",
+  appId: "1:925822756811:web:2738e642f99fb3a6a2f84e"
 };
 
 const firebaseApp = firebase.initializeApp(firebaseConfig);
